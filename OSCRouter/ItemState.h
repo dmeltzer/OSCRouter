@@ -23,6 +23,8 @@
 #define ITEM_STATE_H
 
 #include <vector>
+#include <sys/types.h>
+
 
 class QColor;
 class QString;
